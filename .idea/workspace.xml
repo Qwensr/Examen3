@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d9f400b-e847-4138-9212-909386240f70" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Examen3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/BasicUserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/UserAccountManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Bike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/TransportManagementSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/GeometryCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task3/Triangle.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2YRNws4xiJLfaI3LjSwo19t0eSe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="task3" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d9f400b-e847-4138-9212-909386240f70" name="Changes" comment="" />
+      <created>1700484678976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700484678976</updated>
+    </task>
+    <servers />
+  </component>
+</project>
